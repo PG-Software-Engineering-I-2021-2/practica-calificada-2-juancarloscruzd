@@ -1,3 +1,5 @@
+package com.example.practica2.domain;
+
 public class Student {
     private String _Nombre;
     private int _Tipo;
